@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/NoteFoundPage/NoteFoundPage.jsx"],"names":["NoteFoundPage"],"mappings":"oMAMeA,EANQ,WACnB,OACI","file":"static/js/not -found-view.1f36333b.chunk.js","sourcesContent":[" const NoteFoundPage = () => {\r\n    return (\r\n        <h1> 404 Страница не найдена</h1>\r\n    )\r\n}\r\n    \r\nexport default NoteFoundPage"],"sourceRoot":""}
